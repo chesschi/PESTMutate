@@ -1,0 +1,50 @@
+.control-panel, .version-panel, .report-panel {
+	width:800px;;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.control-panel input[type="text"] {	
+	width:780px;
+	height:40px;
+	font-size: 24px;
+	padding:10px;
+	-mox-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #00CC00;
+}
+
+.control-panel input[type="button"] {
+	height:35px;
+	width:200px;
+	font-size: 12px;	
+}
+
+.version-panel input[type="button"] {
+	height:35px;
+	width:150px;
+	font-size: 12px;	
+}
+
+.control-buttons {
+		
+}
+
+.selectBox {
+	width:500px;		
+}
+
+
+.report {
+	margin:10px;
+	width:100%;
+	height:200px;
+	-mox-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #00CC00;
+}
